@@ -3,13 +3,37 @@ body{
 }
 h1{
     text-align: center;
-    font-size: xx-large;
+    font-size:300%;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
 }
 h2{
     text-align: center;
-    font-size:x-large;
+    font-size:200%;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 600;
+}
+h3{
+    text-align: left;
+    font-size:100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight :300;
+}
+h4{
+    text-align: left;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+h5{
+    text-align: left;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+h6{
+    text-align: left;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
 }
