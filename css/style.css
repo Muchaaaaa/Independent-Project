@@ -37,3 +37,10 @@ h6{
     font-family: 'Times New Roman', Times, serif;
     font-weight: 300;
 }
+.p{
+    background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
