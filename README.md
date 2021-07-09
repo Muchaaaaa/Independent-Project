@@ -26,7 +26,8 @@ Java Script
 If you wish to contact me please do so through sylviaslyg@gmail.com
 
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) license
+<br>
 Copyright (c) 2021
 <br>
 SYLVIA GLORIA MUCHA
