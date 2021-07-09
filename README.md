@@ -24,6 +24,7 @@ Java Script
 
 ## Support and contact details
 If you wish to contact me please do so through sylviaslyg@gmail.com
+
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
 Copyright (c) 2021
