@@ -3,7 +3,8 @@
 #### By Sylvia Gloria Mucha
 
 ## Description
-This portfolio describes Sylvia Mucha
+This portfolio describes Sylvia Mucha.Her capabilities,her likes,her competency and her aspirations 
+as a software developer.
 
 ## Setup/Installation Requirements
 1.Clone the repository
