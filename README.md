@@ -1,5 +1,5 @@
 # SYLVIA GLORIA MUCHA
-#### This portfolio describes the software developer that I am.
+#### This portfolio describes the software developer that Sylvia Mucha is.
 #### By Sylvia Gloria Mucha
 
 ## Description
@@ -24,7 +24,7 @@ CSS
 Java Script
 
 ## Support and contact details
-If you wish to contact me please do so through sylviaslyg@gmail.com
+If you wish to contact me please do so through <link rel="contact" href="contact">
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/) license
