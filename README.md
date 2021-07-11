@@ -3,7 +3,7 @@
 #### By Sylvia Gloria Mucha
 
 ## Description
-This portfolio describes Sylvia Mucha.Her capabilities,her likes,her competency and her aspirations 
+This portfolio describes Sylvia Mucha.Her capabilities,her likes,her competency,academic background,aspirations and her specific interests in the software development field.
 as a software developer.
 
 ## Setup/Installation Requirements
